@@ -1,0 +1,159 @@
+lat_z
+lon_z
+is_composite_system
+is_part_of_complex
+has_Nb
+has_Ta
+has_Th
+has_U
+has_P
+has_F
+has_Zr
+commodity_count
+is_producing
+is_prospect
+is_occurrence_only
+region_Africa
+region_Antarctica
+region_China
+region_East Asia
+region_Europe
+region_Middle East
+region_North America
+region_Oceania
+region_Russian Federation
+region_South America
+region_South and Central Asia
+rec_type_district or area
+rec_type_district or area(?)
+rec_type_intrusion or complex
+rec_type_intrusion or complex(?)
+rec_type_site
+rec_type_site(?)
+system_alkaline_intrusive
+system_carbonatite
+system_clay_laterite
+system_hydrothermal
+system_other
+system_pegmatite
+system_placer
+system_skarn
+system_vein
+dep_form_ 
+dep_form_banded or laminated, disseminated, massive
+dep_form_banded or laminated, lens, stockwork
+dep_form_banded or laminated, lens, veinlet
+dep_form_banded or laminated, massive
+dep_form_bedded or layered
+dep_form_bedded, disseminated, banded
+dep_form_bedded; pelletal; bioclasts
+dep_form_breccia
+dep_form_breccia pipes, nests, veins
+dep_form_breccia, concretions
+dep_form_breccia, massive, layered, dikes, veins
+dep_form_brecciated
+dep_form_dike
+dep_form_dike, disseminated, stockwork
+dep_form_dike, lens
+dep_form_dike, vein
+dep_form_dike, vein, lens
+dep_form_dike, veins
+dep_form_dike-shaped body
+dep_form_dikes
+dep_form_dikes and plugs
+dep_form_dikes or sills
+dep_form_dikes, breccia, blanket-shaped bodies
+dep_form_dikes, plugs, breccia
+dep_form_dikes, sills
+dep_form_dikes, vein
+dep_form_dikes, veins, cement, breccia fillings
+dep_form_dikes, veins, sills, tock-like bodies
+dep_form_dikes, veins, veinlets
+dep_form_disseminated
+dep_form_disseminated, dikes
+dep_form_disseminated, layers
+dep_form_disseminated, stratabound
+dep_form_disseminated, vein
+dep_form_disseminated, veins
+dep_form_disseminated, veins, lenses
+dep_form_laterite
+dep_form_layer
+dep_form_layer, banded, disseminated
+dep_form_lens
+dep_form_lens or lensoid
+dep_form_lens or lensoid, vein, veinlet, breccia
+dep_form_lens, dike
+dep_form_lens, dikes, pegmatite
+dep_form_lens, dikes, pegmatites
+dep_form_lens, disseminated
+dep_form_lens, vein
+dep_form_lens, vein, nodules
+dep_form_lenticular
+dep_form_mantle-shaped, veins
+dep_form_massive
+dep_form_massive layers or bands
+dep_form_massive, breccia
+dep_form_massive, lens, vein
+dep_form_massive, oolitic, breccia
+dep_form_massive, vein
+dep_form_massive, vein, veinlet
+dep_form_nest, lens, vein, disseminated
+dep_form_nests, veinlets
+dep_form_nodular
+dep_form_pegmatite
+dep_form_pegmatite dikes
+dep_form_pegmatite(?)
+dep_form_pegmatite, disseminated
+dep_form_pegmatite, other
+dep_form_pegmatite, stockwork, vein
+dep_form_pegmatites
+dep_form_pegmatites, disseminated
+dep_form_pegmatites, veins
+dep_form_pegmatitic, sill, vein, stockwork
+dep_form_plug, dike
+dep_form_seams, dikes
+dep_form_sheets
+dep_form_sill
+dep_form_stock, breccia, dikes, sills
+dep_form_stockwork
+dep_form_stockwork, stratiform
+dep_form_stockwork, vein
+dep_form_stockwork, veins
+dep_form_stratabound
+dep_form_stratiform
+dep_form_stratiform oolitic, massive
+dep_form_stratiform, lensoid
+dep_form_stratiform, nodular, pebbles
+dep_form_stratiform, oolitic
+dep_form_stratiform, pelletal to massive
+dep_form_stratiform, pelletal, nodular
+dep_form_stratiform, roll, lenticular, tabular
+dep_form_stratiform, veinlets, disseminations
+dep_form_stratiform; lenses and nodules
+dep_form_tabular
+dep_form_tabular, roll-shape
+dep_form_unknown
+dep_form_vein
+dep_form_vein, dike
+dep_form_vein, dikes, lenses
+dep_form_vein, lens, stockwork, dike
+dep_form_vein, stockwork
+dep_form_vein, stockwork, breccia, massive
+dep_form_vein, stockwork, dike
+dep_form_vein, stockwork, mineralized cupolas
+dep_form_vein, veinlets
+dep_form_vein-shaped
+dep_form_veinlets
+dep_form_veinlets, disseminations
+dep_form_veins
+dep_form_veins, dikes
+dep_form_veins, lens
+dep_form_veins, lenses
+dep_form_veins, loads
+dep_form_veins, nests
+dep_form_veins, other(?)
+dep_form_veins, pegmatite
+dep_form_veins, pegmatites
+dep_form_veins, pegmatites, dikes
+dep_form_veins, stockwork
+dep_form_veins, veinlets, stockworks
